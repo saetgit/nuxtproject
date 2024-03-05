@@ -1,6 +1,8 @@
 ---
 title: 'Title of the page'
 description: 'meta description of the page'
+publishedAt: 2023-03-12 17:15:00
+toc: true
 ---
 # First post on our website
 ## Introduction 
